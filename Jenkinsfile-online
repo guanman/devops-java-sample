@@ -14,8 +14,8 @@ pipeline {
         GITHUB_CREDENTIAL_ID = 'github-id'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
         REGISTRY = 'docker.io'
-        DOCKERHUB_NAMESPACE = 'guanman'
-        GITHUB_ACCOUNT = '835771955'
+        DOCKERHUB_NAMESPACE = '835771955'
+        GITHUB_ACCOUNT = 'guanman'
         APP_NAME = 'devops-java-sample'
     }
 
